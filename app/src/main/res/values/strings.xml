@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">islamicapp</string>
+    <string name="day_title_1">Salat Al-Fajr à l\'heure</string>
+    <string name="day_description_1">Réveillez-vous pour la prière de Fajr. C\'est le moment béni où Allah descend au ciel le plus proche et exauce les invocations. Commencer la journée par la prière apporte baraka et paix intérieure.</string>
+
+
+    <string name="day_title_2">Lire le Coran quotidiennement</string>
+    <string name="day_description_2">Lisez au moins une page du Coran chaque jour. Le Prophète (ﷺ) a dit : \"Celui qui lit une lettre du Coran aura une hassanah (bonne action), et une hassanah équivaut à dix.\" Commencez par une petite sourate.</string>
+</resources>
